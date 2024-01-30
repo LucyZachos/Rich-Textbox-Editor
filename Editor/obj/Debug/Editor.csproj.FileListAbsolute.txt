@@ -1,0 +1,11 @@
+C:\Users\Lucy\source\repos\Editor\Editor\bin\Debug\Editor.exe.config
+C:\Users\Lucy\source\repos\Editor\Editor\bin\Debug\Editor.exe
+C:\Users\Lucy\source\repos\Editor\Editor\bin\Debug\Editor.pdb
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.csprojAssemblyReference.cache
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.csproj.GenerateResource.cache
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.csproj.CoreCompileInputs.cache
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.csproj.CopyComplete
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.exe
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.pdb
+C:\Users\Lucy\source\repos\Editor\Editor\obj\Debug\Editor.Editor.resources
